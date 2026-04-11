@@ -1,6 +1,14 @@
 const episodes = [
     {
         value: '1.png',
+        text: "Première rencontre",
+        description: 'boo! be mine VF episode 1 HD',
+        preview: '1-preview.webp',
+        url: ['2-1.png', '2-2.png'],
+        multi: true
+    },
+    {
+        value: '1.png',
         text: "Fermeture",
         description: 'boo! be mine VF episode 1 HD',
         preview: '1-preview.webp',
