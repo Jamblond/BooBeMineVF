@@ -1,7 +1,7 @@
 const episodes = [
     {
         value: '5.png',
-        text: "Client préféré",
+        text: "Un GROS Crush",
         description: 'boo! be mine VF episode 1 HD',
         preview: '5-preview.webp',
         url: ['5-1.png', '5-2.png'],
@@ -9,7 +9,7 @@ const episodes = [
     },
     {
         value: '4.png',
-        text: "Un GROS Crush",
+        text: "Debout",
         description: 'boo! be mine VF episode 1 HD',
         preview: '4-preview.webp',
         url: ['4-1.png', '4-2.png'],
@@ -17,7 +17,7 @@ const episodes = [
     },
     {
         value: '3.png',
-        text: "Debout",
+        text: "Présentations",
         description: 'boo! be mine VF episode 1 HD',
         preview: '3-preview.webp',
         url: ['3-1.png', '3-2.png'],
