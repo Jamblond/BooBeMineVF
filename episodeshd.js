@@ -1,7 +1,7 @@
 const episodes = [
         {
         value: '9.png',
-        text: "Jess",
+        text: "Jett",
         description: 'boo! be mine VF episode 9 HD',
         preview: '9-preview.webp',
         url: ['9-1.png', '9-2.png'],
