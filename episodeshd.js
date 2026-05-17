@@ -1,5 +1,21 @@
 const episodes = [
         {
+        value: '12.png',
+        text: "Devenir fou",
+        description: 'boo! be mine VF episode 12 HD',
+        preview: '12-preview.webp',
+        url: ['12-1.png', '12-2.png'],
+        multi: true
+    },
+        {
+        value: '11.png',
+        text: "Et ils étaient coloc",
+        description: 'boo! be mine VF episode 11 HD',
+        preview: '11-preview.webp',
+        url: ['11-1.png', '11-2.png'],
+        multi: true
+    },
+        {
         value: '10.png',
         text: "Soirée cinéma",
         description: 'boo! be mine VF episode 10 HD',
