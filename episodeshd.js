@@ -1,5 +1,45 @@
 const episodes = [
         {
+        value: '17.png',
+        text: "Excentrique",
+        description: 'boo! be mine VF episode 17 HD',
+        preview: '15-preview.webp',
+        url: ['17-1.png', '17-2.png', '17-3.png', '17-4.png'],
+        multi: true
+    },
+        {
+        value: '16.png',
+        text: "Libération anticipée",
+        description: 'boo! be mine VF episode 16 HD',
+        preview: '15-preview.webp',
+        url: ['16-1.png', '16-2.png', '16-3.png', '16-4.png'],
+        multi: true
+    },
+        {
+        value: '15.png',
+        text: "Face B",
+        description: 'boo! be mine VF episode 15 HD',
+        preview: '15-preview.webp',
+        url: ['15-1.png', '15-2.png', '15-3.png', '15-4.png'],
+        multi: true
+    },
+        {
+        value: '14.png',
+        text: "Critique artistique",
+        description: 'boo! be mine VF episode 14 HD',
+        preview: '14-preview.webp',
+        url: ['14-1.png', '14-2.png', '14-3.png', '14-4.png'],
+        multi: true
+    },
+        {
+        value: '13.png',
+        text: "Fanart",
+        description: 'boo! be mine VF episode 13 HD',
+        preview: '13-preview.webp',
+        url: ['13-1.png', '13-2.png', '13-3.png', '13-4.png'],
+        multi: true
+    },
+        {
         value: '12.png',
         text: "Devenir fou",
         description: 'boo! be mine VF episode 12 HD',
