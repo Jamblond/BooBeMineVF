@@ -11,16 +11,16 @@ const episodes = [
         value: '16.png',
         text: "Libération anticipée",
         description: 'boo! be mine VF episode 16 HD',
-        preview: '15-preview.webp',
-        url: ['16-1.png', '16-2.png', '16-3.png', '16-4.png'],
+        preview: 'patreon_update.png',
+        url: ['Patreon_only.png'],
         multi: true
     },
         {
         value: '15.png',
         text: "Face B",
         description: 'boo! be mine VF episode 15 HD',
-        preview: '15-preview.webp',
-        url: ['15-1.png', '15-2.png', '15-3.png', '15-4.png'],
+        preview: 'patreon_update.png',
+        url: ['Patreon_only.png'],
         multi: true
     },
         {
