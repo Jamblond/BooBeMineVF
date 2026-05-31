@@ -3,8 +3,8 @@ const episodes = [
         value: '17.png',
         text: "Excentrique",
         description: 'boo! be mine VF episode 17 HD',
-        preview: '15-preview.webp',
-        url: ['17-1.png', '17-2.png', '17-3.png', '17-4.png'],
+        preview: 'patreon_update.png',
+        url: ['Patreon_only.png'],
         multi: true
     },
         {
