@@ -1,26 +1,58 @@
 const episodes = [
         {
+        value: '21.png',
+        text: "Tout n'est pas ce qu'il paraît.",
+        description: 'boo! be mine VF episode 21 HD',
+        preview: 'patreon_update.png',
+        url: ['Patreon_only.png'],
+        multi: true
+    },
+        {
+        value: '20.png',
+        text: "Face B",
+        description: 'boo! be mine VF episode 20 HD',
+        preview: 'patreon_update.png',
+        url: ['Patreon_only.png'],
+        multi: true
+    },
+        {
+        value: '19.png',
+        text: "Soirée pyjama",
+        description: 'boo! be mine VF episode 19 HD',
+        preview: 'patreon_update.png',
+        url: ['Patreon_only.png'],
+        multi: true
+    },
+        {
+        value: '18.png',
+        text: "Danser comme si personne ne regardait",
+        description: 'boo! be mine VF episode 18 HD',
+        preview: 'patreon_update.png',
+        url: ['Patreon_only.png'],
+        multi: true
+    },
+        {
         value: '17.png',
         text: "Excentrique",
         description: 'boo! be mine VF episode 17 HD',
         preview: 'patreon_update.png',
-        url: ['Patreon_only.png'],
+        url: ['17-1.png', '17-2.png', '17-3.png', '17-4.png'],
         multi: true
     },
         {
         value: '16.png',
         text: "Libération anticipée",
         description: 'boo! be mine VF episode 16 HD',
-        preview: 'patreon_update.png',
-        url: ['Patreon_only.png'],
+        preview: '16-preview.webp',
+        url: ['16-1.png', '16-2.png', '16-3.png', '16-4.png'],
         multi: true
     },
         {
         value: '15.png',
         text: "Face B",
-        description: 'boo! be mine VF episode 15 HD',
-        preview: 'patreon_update.png',
-        url: ['Patreon_only.png'],
+        description: 'boo! be mine VF episode 14 HD',
+        preview: '15-preview.webp',
+        url: ['15-1.png', '15-2.png', '15-3.png', '15-4.png'],
         multi: true
     },
         {
