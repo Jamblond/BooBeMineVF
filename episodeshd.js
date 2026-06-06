@@ -187,5 +187,5 @@ const episodes = [
         url: ['cover1.png', 'cover2.png'],
         multi: true
     },
-    { value: '', text: '/\\ Hors-séries /\\', description: 'boo! be mine VF extra HD', disabled: true }                
+    { value: '', text: "Hors-séries", description: 'boo! be mine VF extra HD', disabled: true }                
 ];
