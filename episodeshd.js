@@ -181,7 +181,7 @@ const episodes = [
 ];
 
 // Ci-dessous se trouvce l'espace dédié aux épisodes incluts dans le cadre "Hors-saisons". Les épisodes considéré comme "Hors-séries" sont les épisodes annexes à l'histoire principale.
-    { value: '', text: '/\ Hors-séries /\', description: 'boo! be mine VF extra HD', disabled: true },
+    
     {
      value: 'cover.png',
         text: "Cover",
@@ -190,4 +190,4 @@ const episodes = [
         url: ['cover1.png', 'cover2.png'],
         multi: true
     }
-                
+    { value: '', text: '/\ Hors-séries /\', description: 'boo! be mine VF extra HD', disabled: true },                
