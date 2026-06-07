@@ -11,7 +11,7 @@ const episodes = [
         value: '20.png',
         text: "Face B",
         description: 'boo! be mine VF episode 20 HD',
-        preview: 'patreon_update.png',
+        preview: '20-preview.webp',
         url: ['Patreon_only.png'],
         multi: true
     },
@@ -19,7 +19,7 @@ const episodes = [
         value: '19.png',
         text: "Soirée pyjama",
         description: 'boo! be mine VF episode 19 HD',
-        preview: 'patreon_update.png',
+        preview: '19-preview.webp',
         url: ['Patreon_only.png'],
         multi: true
     },
@@ -27,7 +27,7 @@ const episodes = [
         value: '18.png',
         text: "Danser comme si personne ne regardait",
         description: 'boo! be mine VF episode 18 HD',
-        preview: 'patreon_update.png',
+        preview: '18-preview.webp',
         url: ['Patreon_only.png'],
         multi: true
     },
@@ -35,7 +35,7 @@ const episodes = [
         value: '17.png',
         text: "Excentrique",
         description: 'boo! be mine VF episode 17 HD',
-        preview: 'patreon_update.png',
+        preview: '17-preview.webp',
         url: ['17-1.png', '17-2.png', '17-3.png', '17-4.png'],
         multi: true
     },
