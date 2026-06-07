@@ -178,7 +178,39 @@ const episodes = [
     { value: '', text: '/\\ Saison 1  /\\', description: 'boo! be mine VF saison 1 HD', disabled: true },
 
 // Ci-dessous se trouvce l'espace dédié aux épisodes incluts dans le cadre "Hors-saisons". Les épisodes considéré comme "Hors-séries" sont les épisodes annexes à l'histoire principale.
-    
+
+    {
+     value: 'Extra-3.png',
+        text: "Épisode spécial : Questions & Réponses",
+        description: 'boo! be mine VF cover HD',
+        preview: 'Extra-3.webp',
+        url: ['Patreon_only.png'],
+        multi: true
+    },
+        {
+     value: 'Extra-3.png',
+        text: "Épisode spécial : F.A.Q.",
+        description: 'boo! be mine VF cover HD',
+        preview: 'Extra-3.webp',
+        url: ['Patreon_only.png'],
+        multi: true
+    },
+        {
+     value: 'Extra-2.png',
+        text: "Épisode spécial : Merci",
+        description: 'boo! be mine VF cover HD',
+        preview: 'Extra-2.webp',
+        url: ['Patreon_only.png'],
+        multi: true
+    },
+    {
+     value: 'Extra-1.png',
+        text: "Face B",
+        description: 'boo! be mine VF cover HD',
+        preview: 'Extra-1.webp',
+        url: ['Patreon_only.png'],
+        multi: true
+    },
     {
      value: 'cover.png',
         text: "Cover",
