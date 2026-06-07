@@ -180,10 +180,10 @@ const episodes = [
 // Ci-dessous se trouvce l'espace dédié aux épisodes incluts dans le cadre "Hors-saisons". Les épisodes considéré comme "Hors-séries" sont les épisodes annexes à l'histoire principale.
 
     {
-     value: 'Extra-3.png',
+     value: 'Extra-4.png',
         text: "Épisode spécial : Questions & Réponses",
         description: 'boo! be mine VF cover HD',
-        preview: 'Extra-3.webp',
+        preview: 'Extra-4.webp',
         url: ['Patreon_only.png'],
         multi: true
     },
