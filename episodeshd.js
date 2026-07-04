@@ -184,7 +184,7 @@ const episodes = [
         text: "Épisode spécial : Questions & Réponses",
         description: 'boo! be mine VF cover HD',
         preview: 'Extra-4.webp',
-        url: ['BBM_FAQ_REP.png', 'BBM_FAQ_REP-1.png', 'BBM_FAQ_REP-2.png', 'BBM_FAQ_REP-3.png', 'BBM_FAQ_REP-4.png', 'BBM_FAQ_REP-5.png', 'BBM_FAQ_REP-6.png', 'BBM_FAQ_REP-7.png', 'BBM_FAQ_REP-8.png', 'BBM_FAQ_REP-9.png', 'BBM_FAQ_REP-10.png', 'BBM_FAQ_REP-11.png', 'BBM_FAQ_REP-12.png', 'BBM_FAQ_REP-13.png', 'BBM_FAQ_REP-14.png', 'BBM_FAQ_REP-15.png', 'BBM_FAQ_REP-16.png', 'BBM_FAQ_REP-18.png', 'BBM_FAQ_REP-19.png', 'BBM_FAQ_REP-20.png', 'BBM_FAQ_REP-21.png', 'BBM_FAQ_REP-22.png', 'BBM_FAQ_REP-23.png', 'BBM_FAQ_REP-24.png',],
+        url: ['BBM_FAQ_REP.png', 'BBM_FAQ_REP-1.png', 'BBM_FAQ_REP-2.png', 'BBM_FAQ_REP-3.png', 'BBM_FAQ_REP-4.png', 'BBM_FAQ_REP-5.png', 'BBM_FAQ_REP-6.png', 'BBM_FAQ_REP-7.png', 'BBM_FAQ_REP-8.png', 'BBM_FAQ_REP-9.png', 'BBM_FAQ_REP-10.png', 'BBM_FAQ_REP-11.png', 'BBM_FAQ_REP-12.png', 'BBM_FAQ_REP-13.png', 'BBM_FAQ_REP-14.png', 'BBM_FAQ_REP-15.png', 'BBM_FAQ_REP-16.png', 'BBM_FAQ_REP-18.png', 'BBM_FAQ_REP-19.png', 'BBM_FAQ_REP-20.png', 'BBM_FAQ_REP-21.png', 'BBM_FAQ_REP-22.png', 'BBM_FAQ_REP-23.png', 'BBM_FAQ_REP-24.png'],
         multi: true
     },
         {
