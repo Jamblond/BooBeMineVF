@@ -1,5 +1,5 @@
 const episodes = [
-/*        {
+        {
         value: '24.png',
         text: "Parler dans son sommeil",
         description: 'boo! be mine VF episode 24 HD',
@@ -86,7 +86,7 @@ const episodes = [
         preview: '14-preview.webp',
         url: ['14-1.png', '14-2.png', '14-3.png', '14-4.png'],
         multi: true
-    }, */
+    },
         {
         value: '13.png',
         text: "Fanart",
