@@ -390,3 +390,8 @@ footer {
 nav a:last-child {
   margin-left: 60px;
 }
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
