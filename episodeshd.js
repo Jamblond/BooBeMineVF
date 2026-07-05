@@ -92,7 +92,7 @@ const episodes = [
         text: "Fanart",
         description: 'boo! be mine VF episode 13 HD',
         preview: '13-preview.webp',
-        url: ['13-1.png', '13-2.png', '13-3.png', '13-4.png'],
+        url: ['13-1.png', '13-2.png', '13-3.png', '13-4.png', '13-5.png'],
         multi: true
     },
         {
