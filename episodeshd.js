@@ -52,7 +52,7 @@ const episodes = [
         text: "Danser comme si personne ne regardait",
         description: 'boo! be mine VF episode 18 HD',
         preview: '18-preview.webp',
-        url: ['Patreon_only.png'],
+        url: ['18-1.png', '18-2.png', '18-3.png', '18-4.png'],
         multi: true
     },
         {
