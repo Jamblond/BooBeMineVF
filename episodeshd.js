@@ -1,15 +1,39 @@
 const episodes = [
         {
+        value: '24.png',
+        text: "Parler dans son sommeil",
+        description: 'boo! be mine VF episode 24 HD',
+        preview: '24-preview.webp',
+        url: ['Patreon_only.png'],
+        multi: true
+    },
+        {
+        value: '23.png',
+        text: "Embuscade",
+        description: 'boo! be mine VF episode 23 HD',
+        preview: '23-preview.webp',
+        url: ['Patreon_only.png'],
+        multi: true
+    },
+        {
+        value: '22.png',
+        text: "Famille trouvée",
+        description: 'boo! be mine VF episode 22 HD',
+        preview: '22-preview.webp',
+        url: ['Patreon_only.png'],
+        multi: true
+    },
+        {
         value: '21.png',
-        text: "Tout n'est pas ce qu'il paraît.",
+        text: "Une journée de boulot difficile",
         description: 'boo! be mine VF episode 21 HD',
-        preview: 'patreon_update.png',
+        preview: '21-preview.webp',
         url: ['Patreon_only.png'],
         multi: true
     },
         {
         value: '20.png',
-        text: "Face B",
+        text: "Motarde",
         description: 'boo! be mine VF episode 20 HD',
         preview: '20-preview.webp',
         url: ['Patreon_only.png'],
