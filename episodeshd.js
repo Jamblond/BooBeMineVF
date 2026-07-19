@@ -1,10 +1,18 @@
 const episodes = [
         {
+        value: '25.png',
+        text: "Une mission importante",
+        description: 'boo! be mine VF episode 25 HD',
+        preview: '25-preview.webp',
+        url: ['25-1.webp', '25-2.webp', '25-3.webp', '25-4.webp', '25-5.webp', '25-6.webp', '25-7.webp', '25-8.webp', '25-9.webp', '25-10.webp', '25-11.webp', '25-12.webp',  '25-13.webp',  '25-14.webp',  '25-15.webp',  '25-16.webp',  '25-17.webp',  '25-18.webp',  '25-19.webp',  '25-20.webp'],
+        multi: true
+    },
+        {
         value: '24.png',
         text: "Parler dans son sommeil",
         description: 'boo! be mine VF episode 24 HD',
         preview: '24-preview.webp',
-        url: ['Patreon_only.png'],
+        url: ['24-1.webp', '24-2.webp', '24-3.webp', '24-4.webp', '24-5.webp', '24-6.webp', '24-7.webp', '24-8.webp', '24-9.webp', '24-10.webp', '24-11.webp', '24-12.webp',  '24-13.webp',  '24-14.webp',  '24-15.webp',  '24-16.webp'],
         multi: true
     },
         {
@@ -12,7 +20,7 @@ const episodes = [
         text: "Embuscade",
         description: 'boo! be mine VF episode 23 HD',
         preview: '23-preview.webp',
-        url: ['Patreon_only.png'],
+        url: ['23-1.webp', '23-2.webp', '23-3.webp', '23-4.webp', '23-5.webp', '23-6.webp', '23-7.webp', '23-8.webp', '23-9.webp', '23-10.webp', '23-11.webp', '23-12.webp',  '23-13.webp',  '23-14.webp',  '23-15.webp',  '23-16.webp'],
         multi: true
     },
         {
@@ -20,7 +28,7 @@ const episodes = [
         text: "Famille trouvée",
         description: 'boo! be mine VF episode 22 HD',
         preview: '22-preview.webp',
-        url: ['Patreon_only.png'],
+        url: ['22-1.webp', '22-2.webp', '22-3.webp', '22-4.webp', '22-5.webp', '22-6.webp', '22-7.webp', '22-8.webp', '22-9.webp', '22-10.webp', '22-11.webp', '22-12.webp',  '22-13.webp',  '22-14.webp',  '22-15.webp',  '22-16.webp',  '22-17.webp',  '22-18.webp',  '22-19.webp',  '22-20.webp', '22-21.webp', '22-22.webp', '22-23.webp'],
         multi: true
     },
         {
@@ -28,7 +36,7 @@ const episodes = [
         text: "Une journée de boulot difficile",
         description: 'boo! be mine VF episode 21 HD',
         preview: '21-preview.webp',
-        url: ['Patreon_only.png'],
+        url: ['21-1.webp', '21-2.webp', '21-3.webp', '21-4.webp', '21-5.webp', '21-6.webp', '21-7.webp', '21-8.webp', '21-9.webp', '21-10.webp', '21-11.webp', '21-12.webp',  '21-13.webp',  '21-14.webp',  '21-15.webp',  '21-16.webp',  '21-17.webp',  '21-18.webp',  '21-19.webp',  '21-20.webp', '21-21.webp', '21-22.webp', '21-23.webp', '21-24.webp', '21-25.webp'],
         multi: true
     },
         {
@@ -36,7 +44,7 @@ const episodes = [
         text: "Motarde",
         description: 'boo! be mine VF episode 20 HD',
         preview: '20-preview.webp',
-        url: ['Patreon_only.png'],
+        url: ['20-1.webp', '20-2.webp', '20-3.webp', '20-4.webp', '20-5.webp', '20-6.webp', '20-7.webp', '20-8.webp', '20-9.webp', '20-10.webp', '20-11.webp', '20-12.webp',  '20-13.webp',  '20-14.webp',  '20-15.webp',  '20-16.webp',  '20-17.webp',  '20-18.webp',  '20-19.webp',  '20-20.webp', '20-21.webp', '20-22.webp', '20-23.webp'],
         multi: true
     },
         {
