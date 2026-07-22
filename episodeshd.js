@@ -4,7 +4,7 @@ const episodes = [
         text: "Vient voler avec moi",
         description: 'boo! be mine VF episode 26 HD',
         preview: '26-preview.webp',
-        url: ['26-1.webp', '26-2.webp', '26-3.webp', '26-4.webp', '26-5.webp', '26-6.webp', '26-7.webp', '26-8.webp', '26-9.webp', '26-10.webp', '26-11.webp', '26-12.webp',  '26-13.webp',  '26-14.webp',  '26-15.webp',  '26-16.webp'],
+        url: ['26-1.webp', '26-2.webp', '26-3.webp', '26-4.webp', '26-5.webp', '26-6.webp', '26-7.webp', '26-8.webp', '26-9.webp', '26-10.webp', '26-11.webp', '26-12.webp',  '26-13.webp',  '26-14.webp',  '26-15.webp',  '26-16.webp', '26-17.webp', '26-18.webp'],
         multi: true
     },
         {
