@@ -52,7 +52,7 @@ const episodes = [
         text: "Soirée pyjama",
         description: 'boo! be mine VF episode 19 HD',
         preview: '19-preview.webp',
-        url: ['Patreon_only.png'],
+        url: ['19-1.webp', '19-2.webp', '19-3.webp', '19-4.webp', '19-5.webp', '19-6.webp', '19-7.webp', '19-8.webp'],
         multi: true
     },
         {
