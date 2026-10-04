@@ -1,5 +1,21 @@
 const episodes = [
         {
+        value: '28.png',
+        text: "Meilleur conducteur du monde",
+        description: 'boo! be mine VF episode 28 HD',
+        preview: '28-preview.webp',
+        url: ['28-1.webp', '28-2.webp', '28-3.webp', '28-4.webp', '28-5.webp', '28-6.webp', '28-7.webp', '28-8.webp', '28-9.webp', '28-10.webp', '28-11.webp', '28-12.webp',  '28-13.webp', '28-14.webp', '28-15.webp', '28-16.webp', '28-17.webp', '28-18.webp'],
+        multi: true
+    },
+        {
+        value: '27.png',
+        text: "Repos imposé",
+        description: 'boo! be mine VF episode 27 HD',
+        preview: '27-preview.webp',
+        url: ['27-1.webp', '27-2.webp', '27-3.webp', '27-4.webp', '27-5.webp', '27-6.webp', '27-7.webp', '27-8.webp', '27-9.webp', '27-10.webp', '27-11.webp', '27-12.webp',  '27-13.webp',  '27-14.webp'],
+        multi: true
+    },
+        {
         value: '26.png',
         text: "Vient voler avec moi",
         description: 'boo! be mine VF episode 26 HD',
