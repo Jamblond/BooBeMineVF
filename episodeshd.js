@@ -1,5 +1,21 @@
 const episodes = [
         {
+        value: '30.png',
+        text: "Renvoyé",
+        description: 'boo! be mine VF episode 16 HD',
+        preview: '30-preview.webp',
+        url: ['30-1.png', '30-2.png', '30-3.png', '30-4.png'],
+        multi: true
+    },
+        {
+        value: '29.png',
+        text: "Question vitale",
+        description: 'boo! be mine VF episode 16 HD',
+        preview: '29-preview.webp',
+        url: ['29-1.png', '29-2.png', '29-3.png', '29-4.png'],
+        multi: true
+    },
+        {
         value: '28.png',
         text: "Meilleur conducteur du monde",
         description: 'boo! be mine VF episode 28 HD',
